@@ -11,6 +11,7 @@
     "debug": "ndb server.js",
     "watch:js": "parcel watch ./public/js/index.js --out-dir ./public/js --out-file bundle.js",
     "build:js": "parcel watch ./public/js/index.js --out-dir ./public/js --out-file bundle.js"
+    
   },
   "author": "abhilash",
   "license": "ISC",
